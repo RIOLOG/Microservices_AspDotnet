@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 ## Dependencies
 
 - ASP.NET Core
-- Ocelot
+- Ocelot (API GateWay)
 - Entity Framework Core (if using a database)
 - Docker (optional)
 
