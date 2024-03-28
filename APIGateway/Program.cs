@@ -24,7 +24,6 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-
 //adding the ocelot configuration for API gateway:
 //app.ConfigureAppConfiguration((ctx, config) => { config.AddJsonFile("ocelot.json"); });
 app.UseOcelot().Wait();
