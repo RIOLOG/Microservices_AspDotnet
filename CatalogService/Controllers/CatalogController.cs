@@ -12,6 +12,7 @@ namespace CatalogService.Controllers
         DatabaseContext _db;
         public CatalogController(DatabaseContext db) 
         {
+            //lets do some changes
             _db = db;
         }
 
