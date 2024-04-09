@@ -9,6 +9,7 @@ namespace CatalogService.Database
 
         }
 
+        //checking jenkins pipeline
         public DbSet<Product>? Products { get; set; }
     }
 }
