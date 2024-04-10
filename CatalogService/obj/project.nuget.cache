@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BL5oBi6MxBvW1OWXh2eWGpV+NJCZuhRRFj5fvRCYbjIaiVonhSqq9JDFVPAD70qFZ5pz5pOoAtGzIS/cnKW1JA==",
+  "dgSpecHash": "BpXEZ/6kw38zw5LcGxymNDZfLqkGQN0eYghghcYB9T3lG6tvzJ5BhT+RqZrUNuUuS0gCSXOd5q+Ob3cHInogFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ankitsingh14\\OneDrive - Nagarro\\Desktop\\MicroservicesApp\\CatalogService\\CatalogService.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ankitsingh14\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
